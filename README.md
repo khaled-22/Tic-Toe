@@ -12,3 +12,8 @@ To rund the game locally, follow these steps:
 1. Clone the repository: ` https://github.com/khaled-22/Tic-Toe.git `
 2. Navigate the the project directory: ` cd Tic-Toe`
 3. Install dependencies for the file `requirements.txt` file 
+
+
+# Screenshot of the game: 
+
+![image](https://github.com/khaled-22/Tic-Toe/assets/70975472/48fd2411-fa3f-40e5-a795-2b1c10f3ba78)
