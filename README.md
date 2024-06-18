@@ -6,4 +6,6 @@ Tic-Toe game
 4. If all nine squares are filled and neither player has three in a row, the game is a draw.
 
 
-Installation
+# Installation
+To rund the game locally, follow these steps: 
+1. Clone the repository: ` 
