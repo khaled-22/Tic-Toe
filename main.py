@@ -7,7 +7,7 @@ pygame.init()
 
 screen = pygame.display.set_mode((WIDTH,HEIGHT))
 pygame.display.set_caption("TIC TAC TOE")
-screen.fill(RED)
+screen.fill(BG_COLLOR)
 
 # board 
 board = np.zeros((BOARD_ROWS,BOARD_COLS))

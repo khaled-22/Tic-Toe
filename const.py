@@ -9,13 +9,13 @@ CIRCLE_WIDTH = 14
 
 # Drawing the line 
 
-LINE_WIDHT_CROSS= 30
-CROSS_WIDTH = 30
-SPACE = 30
+LINE_WIDHT_CROSS= 15
+CROSS_WIDTH = 20
+SPACE = 50
 
 # rgb format
-RED = (125,60,100) ## Background color
-LINE_COLOR = (23,145,135)
+BG_COLLOR = (153,76,0) ## Background color
+LINE_COLOR = (0,0,0)
 GREEN = (0,255,0)
 BLUE = (0,0,255)
 ## Board rows and board cols

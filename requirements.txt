@@ -1,0 +1,9 @@
+
+
+# Here are some libaries need for the game to work 
+
+1. First open your terminal and download 
+
+- pip install numpy
+- pip install pygame 
+
