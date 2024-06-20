@@ -77,7 +77,6 @@ def board_full():
     return True
             
 
-mark_square(0,0,1)
 print(board)
 
 ## Check if the square is avilable or not 

@@ -1,6 +1,6 @@
 
 
-# Here are some libaries need for the game to work 
+# Here are some libraries needed for the game to work 
 
 1. First open your terminal and download 
 
