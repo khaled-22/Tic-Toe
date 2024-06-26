@@ -97,6 +97,7 @@ while True:
         if event.type == pygame.MOUSEBUTTONDOWN:
             mouseX = event.pos[0] # x-coordinate
             mouseY = event.pos[1] # y-coodinate
+            print(mouseX,mouseY)
         
             cicked_row = int(mouseY // 200) 
             clicked_col = int(mouseX // 200)   
@@ -110,5 +111,6 @@ while True:
                     mark_square(cicked_row,clicked_col,2)
                     player = 1
                 draw_figures()    
+                print(board)
             
     pygame.display.update()

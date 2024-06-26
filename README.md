@@ -8,7 +8,7 @@ Tic-Toe game
 
 
 # Installation
-To rund the game locally, follow these steps: 
+To run the game locally, follow these steps: 
 1. Clone the repository: ` https://github.com/khaled-22/Tic-Toe.git `
 2. Navigate the the project directory: ` cd Tic-Toe`
 3. Install dependencies for the file `requirements.txt` file 
